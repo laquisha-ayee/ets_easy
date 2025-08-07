@@ -1,4 +1,4 @@
-## 🧬 Database Schema
+## Database Schema
 
 This schema outlines the core data structure for users, posts, and follower relationships.
 
